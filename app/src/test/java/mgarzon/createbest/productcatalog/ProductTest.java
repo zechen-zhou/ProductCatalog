@@ -1,6 +1,7 @@
 package mgarzon.createbest.productcatalog;
 import static org.junit.Assert.*;
 import org.junit.Test;
+import org.junit.Assert;
 
 public class ProductTest {
 
